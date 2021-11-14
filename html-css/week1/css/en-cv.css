@@ -47,9 +47,9 @@ li{
     font-size:12px;
 }
 .image img{
-    width:140%; /* التحكم فى حجم الصورة */
+    width:140%; /* Image size control */
     position:absolute;
-    right:-27px; /* التحكم فى مكان الصورة */
+    right:-27px; /* Image location control */
 }
 .cv_image,
 .image{
