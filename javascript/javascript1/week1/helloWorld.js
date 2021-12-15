@@ -20,7 +20,7 @@ if (dogYear) {
     console.log(
         "Your dog will be " + shouldShowResultInDogYears + " dog years old in 2027"
     );
-
+ }
     //The code is different, but the same as the code above نفس الكود الي فوق بس بصياغة مختلفة
     
     /* let dogYearOfBirth = 1985;
