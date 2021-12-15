@@ -72,7 +72,7 @@ const housePrice2 = volumeInMeters * 2.5 * 1000 + gardenSizeInM2 * 300;
 const houseCost2 = 1000000
 
 
-if (housePrice>houseCost) {
+if (housePrice > houseCost) {
     
     console.log ("This house is " + (housePrice2 - houseCost2) + " underpriced")
 }
