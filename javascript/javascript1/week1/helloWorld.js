@@ -58,7 +58,7 @@ const houseCost = 2500000
 
 if (housePrice > houseCost) {
     
-    console.log ("This house is " + (housePrice - houseCost) + "underpriced")
+    console.log ("This house is " + (housePrice - houseCost) + " underpriced")
 }
 else {
     console.log ("This house is " + (houseCost - housePrice) + " overpriced")
