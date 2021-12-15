@@ -33,6 +33,7 @@ if (dogYear) {
     let shouldShowResultInDogYears = true;
     
     if (shouldShowResultInDogYears === true) {
+    
       console.log(
         "Your dog will be " + dogYear + " dog years old in " + dogYearFuture + "."
       );
@@ -56,6 +57,7 @@ const houseCost = 2500000
 
 
 if (housePrice>houseCost) {
+    
     console.log ("This house is " + (housePrice - houseCost) + "underpriced")
 }
 else {
@@ -71,6 +73,7 @@ const houseCost2 = 1000000
 
 
 if (housePrice>houseCost) {
+    
     console.log ("This house is " + (housePrice2 - houseCost2) + " underpriced")
 }
 else {
