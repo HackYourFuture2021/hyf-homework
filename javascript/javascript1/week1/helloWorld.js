@@ -68,7 +68,7 @@ else {
 
 const volumeInMeters2 = 5 * 11 * 8;
 const gardenSizeInM22 = 70;
-const housePrice2 = volumeInMeters * 2.5 * 1000 + gardenSizeInM2 * 300;
+const housePrice2 = volumeInMeters2 * 2.5 * 1000 + gardenSizeInM2 * 300;
 const houseCost2 = 1000000
 
 
