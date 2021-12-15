@@ -6,7 +6,7 @@ let yearFuture = 2080;
 let age = yearFuture - yearOfBirth;
 
 
-console.log("You will be " + age + " years old in " + yearFuture)
+console.log("You will be " + age + " years old in " + yearFuture);
 
 // Goodboy-Oldboy (A dog age calculator)
 
